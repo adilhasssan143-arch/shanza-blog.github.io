@@ -23,10 +23,11 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 url: "https://adilhasssan143-arch.github.io"
-baseurl: "/shanza.blog"
+baseurl: "/shanza-blog"
 avatar: "/assets/shanza.jpg"
+
 github:
-  username: adilhasssan143-archurl: "https://adilhasssan143-arch.github.io"
+  username: adilhasssan143-archurl
   
 twitter:
   username: twitter_username # change to your Twitter username
