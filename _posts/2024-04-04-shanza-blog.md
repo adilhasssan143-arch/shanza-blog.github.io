@@ -7,8 +7,9 @@ tags: [welcome]
 
 ![Desktop View](/assets/img/hi.jpg)
 
- Intro
-My first step into the world of programming was nothing less than a battle... (Your full paragraph will go here)
+ Intro:
+ 
+My first step into the world of programming was nothing less than a battle. It began as a silent standoff between me and a blinking cursor, where every semicolon felt like a strategic gamble and every "Syntax Error" a personal strike against my resolve. I spent hours wrestling with logic that seemed purposefully evasive, feeling like I was trying to learn a cryptic language while blindfolded. Yet, within that struggle, there was a strange, addictive rhythm; each crashed program was a lesson learned, and every bug squashed became a hard-won trophy. What started as a daunting confrontation eventually shifted into a complex dance of problem-solving, turning a frustrating war of attrition into the foundation of my creative confidence.
 
 1. The Battle with the Semicolon ;
 
