@@ -20,4 +20,4 @@ order: 4
 
 **Email:** shanzayrai142@gmail.com
 
-**GitHub:** [https://adilhassan143-arch.github.io](https://adilhassan143-arch.github.io)
+**GitHub:** [(https://adilhasssan143-arch.github.io/shanza-blog/)](https://adilhasssan143-arch.github.io/shanza-blog/)
