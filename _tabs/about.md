@@ -41,7 +41,7 @@ I love connecting with like-minded individuals and professionals. Feel free to r
 
 **Email:** shanzayrai142@gmail.com
 
-**GitHub:** [(https://shanzayfatima.github.io/shanza-blog/)](https://shanzayfatima.github.io/shanza-blog/)
+**GitHub:** [(https://shanzayfatima.github.io/shanzayfatima.github.io/)](https://shanzayfatima.github.io/shanzayfatima.github.io/)
 
 ---
 *"Believe in the process, and the results will follow."*
