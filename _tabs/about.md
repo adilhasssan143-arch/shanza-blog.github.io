@@ -4,10 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
-
 # Hi, I'm Shanzay Fatima:
 
 Welcome to my digital space! I am a passionate **Computer Engineering** student,I am pursuing my graduation in Computer Engineering from UET Faisalabad. currently navigating through my **2nd Semester**. Joining this field wasn't just a choice; it was a goal I held from the very beginning, and now that I am here, I am dedicated to mastering the craft of engineering.
